@@ -1,4 +1,4 @@
-# HuiIndex
+# Vite3+Vue3+TypeScript+Eslint+Prettier
 
 
 > 前端初始化项目模板 by belikers
